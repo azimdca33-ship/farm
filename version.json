@@ -1,0 +1,28 @@
+{
+  "manifest_version": 1,
+  "files": [
+    {
+      "path": "admin.lua",
+      "target": "scripts\\\\admin.lua",
+      "version": 4.8,
+      "type": "lua",
+      "min_size": 5000,
+      "sha256": ""
+    },
+    {
+      "path": "updater.lua",
+      "target": "scripts\\\\updater.lua",
+      "version": 3.0,
+      "type": "lua",
+      "min_size": 3000,
+      "sha256": ""
+    },
+    {
+      "path": "licenses.txt",
+      "target": "licenses.txt",
+      "version": 1.0,
+      "type": "text",
+      "backup": true
+    }
+  ]
+}

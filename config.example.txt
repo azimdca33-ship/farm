@@ -1,0 +1,12 @@
+[settings]
+bot_name=Your_Name
+token=
+chatid=
+password=
+gemini_key=
+
+[daily_logs]
+start_time=0
+
+[faq_meta]
+last_update=0
